@@ -1,0 +1,4 @@
+
+Iniciando Entrenamiento...
+Epoch 1/20 | Train Loss: 1.6813 | Val Loss: 12.1953 | Val Acc: 80.97%
+Nuevo récord: 80.97% (Guardado)
