@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2025-12-05T23:11:11.763402Z",
+  "program":  "c:\\Users\\Adrian Ojeda\\Desktop\\ulpgc\\TERCER_CURSO\\AA2\\red_convolutiva\\modelo_tradicional.ipynb",
+  "codePath":  "c:\\Users\\Adrian Ojeda\\Desktop\\ulpgc\\TERCER_CURSO\\AA2\\red_convolutiva\\modelo_tradicional.ipynb",
+  "codePathLocal":  "modelo_tradicional.ipynb",
+  "git":  {
+    "remote":  "https://github.com/adriaanojeda/red_convolutiva.git",
+    "commit":  "4576bd05caf5fb431cdf6bef4e6a9e3ea45888dc"
+  },
+  "email":  "adriojeda04@gmail.com",
+  "root":  "c:\\Users\\Adrian Ojeda\\Desktop\\ulpgc\\TERCER_CURSO\\AA2\\red_convolutiva",
+  "host":  "DESKTOP-KVD0NI9",
+  "executable":  "c:\\Python313\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce GTX 1660",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "499165163520",
+      "used":  "154787414016"
+    }
+  },
+  "memory":  {
+    "total":  "34309693440"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1660",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  1408,
+      "architecture":  "Turing",
+      "uuid":  "GPU-be6cbd79-d8bd-fdde-85a0-c690c1e42a74"
+    }
+  ],
+  "cudaVersion":  "12.6",
+  "writerId":  "zyjudv29qxy8g7qxpn5k231ug3yuk1zn"
+}
