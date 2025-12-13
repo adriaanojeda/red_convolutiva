@@ -1,0 +1,30 @@
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_setup.py:_flush():80] Configure stats pid to 2484
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_setup.py:_flush():80] Loading settings from C:\Users\Adrian Ojeda\.config\wandb\settings
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_setup.py:_flush():80] Loading settings from c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva\wandb\settings
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-08 19:41:10,848 INFO    MainThread:2484 [wandb_init.py:setup_run_log_directory():714] Logging user logs to c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva\wandb\run-20251208_194110-uwqzun4o\logs\debug.log
+2025-12-08 19:41:10,849 INFO    MainThread:2484 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva\wandb\run-20251208_194110-uwqzun4o\logs\debug-internal.log
+2025-12-08 19:41:10,849 INFO    MainThread:2484 [wandb_init.py:monkeypatch_ipython():633] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002104AF36660>
+2025-12-08 19:41:10,849 INFO    MainThread:2484 [wandb_init.py:init():841] calling init triggers
+2025-12-08 19:41:10,849 INFO    MainThread:2484 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'model': 'ResNet50', 'strategy': 'Deep Fine-Tuning (Layer4)', 'epochs': 20, 'batch_size': 32, 'lr_features': 1e-05, 'lr_head': 0.0001, '_wandb': {}}
+2025-12-08 19:41:10,849 INFO    MainThread:2484 [wandb_init.py:init():889] starting backend
+2025-12-08 19:41:13,491 INFO    MainThread:2484 [wandb_init.py:init():892] sending inform_init request
+2025-12-08 19:41:13,518 INFO    MainThread:2484 [wandb_init.py:init():900] backend started and connected
+2025-12-08 19:41:13,574 INFO    MainThread:2484 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2025-12-08 19:41:13,587 INFO    MainThread:2484 [wandb_init.py:init():970] updated telemetry
+2025-12-08 19:41:13,752 INFO    MainThread:2484 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-08 19:41:14,450 INFO    MainThread:2484 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-08 19:41:14,585 INFO    MainThread:2484 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-08 19:41:14,585 INFO    MainThread:2484 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-08 19:41:14,585 INFO    MainThread:2484 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-08 19:41:14,585 INFO    MainThread:2484 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-08 19:41:14,589 INFO    MainThread:2484 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-08 20:15:00,618 INFO    MainThread:2484 [wandb_run.py:_finish():2287] finishing run adriojeda04-ayuntamiento-de-las-palmas-de-gran-canaria/PRACTICA1AA2_CLASIFICADOR_PLANTAS/uwqzun4o
+2025-12-08 20:15:00,620 INFO    MainThread:2484 [jupyter.py:save_ipynb():359] not saving jupyter notebook
+2025-12-08 20:15:00,620 INFO    MainThread:2484 [wandb_init.py:_jupyter_teardown():618] cleaning up jupyter logic
+2025-12-08 20:15:00,620 INFO    MainThread:2484 [wandb_run.py:_atexit_cleanup():2486] got exitcode: 0
+2025-12-08 20:15:00,621 INFO    MainThread:2484 [wandb_run.py:_restore():2468] restore
+2025-12-08 20:15:00,621 INFO    MainThread:2484 [wandb_run.py:_restore():2474] restore done
+2025-12-08 20:15:01,810 INFO    MainThread:2484 [wandb_run.py:_footer_sync_info():3862] logging synced files

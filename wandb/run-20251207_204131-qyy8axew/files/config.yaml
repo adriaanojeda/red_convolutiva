@@ -1,0 +1,70 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            zxnwhz6pa4o8sgy4j10lropg72jaft0i:
+                codePath: c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva\modelo_tradicional.ipynb
+                codePathLocal: modelo_tradicional.ipynb
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "499165163520"
+                        used: "158111567872"
+                email: adriojeda04@gmail.com
+                executable: c:\Python313\python.exe
+                git:
+                    commit: 02eabf1a6f86b6c22a14a7be815ffe124c426b50
+                    remote: https://github.com/adriaanojeda/red_convolutiva.git
+                gpu: NVIDIA GeForce GTX 1660
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 1408
+                      memoryTotal: "6442450944"
+                      name: NVIDIA GeForce GTX 1660
+                      uuid: GPU-be6cbd79-d8bd-fdde-85a0-c690c1e42a74
+                host: DESKTOP-KVD0NI9
+                memory:
+                    total: "34309693440"
+                os: Windows-11-10.0.26100-SP0
+                program: c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva\modelo_tradicional.ipynb
+                python: CPython 3.13.1
+                root: c:\Users\Adrian Ojeda\Desktop\ulpgc\TERCER_CURSO\AA2\red_convolutiva
+                startedAt: "2025-12-07T20:41:31.480752Z"
+                writerId: zxnwhz6pa4o8sgy4j10lropg72jaft0i
+        m: []
+        python_version: 3.13.1
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.1
+            "5": 0.23.1
+            "8":
+                - 1
+                - 3
+            "10":
+                - 20
+            "12": 0.23.1
+            "13": windows-amd64
+dropout:
+    value: 0.5
+epochs:
+    value: 50
+fc_units:
+    value: 256
+lr:
+    value: 0.01

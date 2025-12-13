@@ -1,0 +1,32 @@
+
+Iniciando Entrenamiento (Transfer Learning)...
+Epoch 1/20 | Train Loss: 1.6873 | Val Loss: 1.5445 | Val Acc: 80.09%
+  >>> Nuevo récord: 80.09% (Guardado)
+Epoch 2/20 | Train Loss: 1.3537 | Val Loss: 1.1041 | Val Acc: 82.74%
+  >>> Nuevo récord: 82.74% (Guardado)
+Epoch 3/20 | Train Loss: 0.8856 | Val Loss: 0.6647 | Val Acc: 88.05%
+  >>> Nuevo récord: 88.05% (Guardado)
+Epoch 4/20 | Train Loss: 0.5394 | Val Loss: 0.4071 | Val Acc: 90.71%
+  >>> Nuevo récord: 90.71% (Guardado)
+Epoch 5/20 | Train Loss: 0.3619 | Val Loss: 0.3174 | Val Acc: 93.81%
+  >>> Nuevo récord: 93.81% (Guardado)
+Epoch 6/20 | Train Loss: 0.2896 | Val Loss: 0.2480 | Val Acc: 96.46%
+  >>> Nuevo récord: 96.46% (Guardado)
+Epoch 7/20 | Train Loss: 0.2564 | Val Loss: 0.2085 | Val Acc: 95.13%
+Epoch 8/20 | Train Loss: 0.1950 | Val Loss: 0.1700 | Val Acc: 96.46%
+Epoch 9/20 | Train Loss: 0.1612 | Val Loss: 0.1527 | Val Acc: 96.46%
+Epoch 10/20 | Train Loss: 0.1637 | Val Loss: 0.1529 | Val Acc: 97.35%
+  >>> Nuevo récord: 97.35% (Guardado)
+Epoch 11/20 | Train Loss: 0.1357 | Val Loss: 0.1290 | Val Acc: 96.90%
+Epoch 12/20 | Train Loss: 0.1518 | Val Loss: 0.1115 | Val Acc: 97.79%
+  >>> Nuevo récord: 97.79% (Guardado)
+Epoch 13/20 | Train Loss: 0.1323 | Val Loss: 0.1095 | Val Acc: 97.35%
+Epoch 14/20 | Train Loss: 0.1180 | Val Loss: 0.1054 | Val Acc: 97.35%
+Epoch 15/20 | Train Loss: 0.0727 | Val Loss: 0.0996 | Val Acc: 97.35%
+Epoch 16/20 | Train Loss: 0.1009 | Val Loss: 0.0834 | Val Acc: 96.90%
+Epoch 17/20 | Train Loss: 0.0941 | Val Loss: 0.0760 | Val Acc: 98.67%
+  >>> Nuevo récord: 98.67% (Guardado)
+Epoch 18/20 | Train Loss: 0.0801 | Val Loss: 0.0789 | Val Acc: 98.23%
+Epoch 19/20 | Train Loss: 0.0500 | Val Loss: 0.0667 | Val Acc: 98.67%
+Epoch 20/20 | Train Loss: 0.0623 | Val Loss: 0.0744 | Val Acc: 98.23%
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.
